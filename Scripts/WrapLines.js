@@ -5,7 +5,7 @@
  "description": "Adds a line break after 77 characters",
  "author": "Rex",
  "icon": "scissors",
- "tags": "linebreak,line,wrap,wrap lines"
+ "tags": "line break,line,wrap,wrap lines"
  }
  **/
 
